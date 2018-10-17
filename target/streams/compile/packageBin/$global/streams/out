@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\bowlingkata_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling\Bowling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling\Bowling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helper[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\helper[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling\Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling\Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helper\Input.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\helper\Input.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling\Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling\Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling\Bowling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling\Bowling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helper\Input$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\helper\Input$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Marion\IdeaProjects\BowlingKata\target\scala-2.12\classes\bowling[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
