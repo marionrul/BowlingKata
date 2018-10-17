@@ -1,5 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\Marion\IdeaProjects\BowlingKata\src\test\scala\BowlingSpec.scala:138:35: not enough arguments for method getScore: (rolls: List[Int], score: Int, nbFrame: Int)Int.[0m
-[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter nbFrame.[0m
-[0m[[0m[31merror[0m] [0m[0m      val score = newGame.getScore(newGame.rolls, 0)[0m
-[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
